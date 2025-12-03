@@ -5,6 +5,7 @@ I am a computer science major who will hopefully graduate with a Bachelor's Degr
 ## Favorite CSPC 120L Labs
 
 Lab 6
+
 It was about using if statements and making std::vector<std::string> types. It was really fun to do because it gives me a glimpse of how to make code for programs that would lead up to making video games.
 
 Lab 9
