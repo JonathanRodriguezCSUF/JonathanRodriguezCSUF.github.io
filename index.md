@@ -1,4 +1,4 @@
-##Jonathan Rodriguez's Portfolio
+## Jonathan Rodriguez's Portfolio
 
 I am a computer science major who will hopefully graduate with a Bachelor's Degree in 2027
 
